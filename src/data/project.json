@@ -1,0 +1,47 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "tag": ["HTML", "CSS"],
+            "name": "CV - Mickael Hanon",
+            "createDate": "19/06/2024",
+            "description": "Ce projet vise à convertir un CV numérique en format HTML et CSS en vue de son intégration dans une application web professionnelle. L'objectif est de créer un CV en ligne attrayant et accessible sur différents navigateurs et appareils, ce qui permettra de faciliter le partage des compétences et des expériences avec les recruteurs potentiels.",
+            "image": [
+                {
+                    "src":"src/assets/images/projets/cv.png",
+                    "alt":"CV - Mickael Hanon Image 1"
+                }
+               
+            ],
+            "link": "https://github.com/Diablo5929/mon-premier-cv"
+        },
+        {
+            "id": 2,
+            "tag": ["JavaScript"],
+            "name": "Espace Commentaire",
+            "createDate": "28/07/2024",
+            "description": "L'objectif de ce projet était de créer la partie front-end de l'intégration d'un nouveau commentaire dans un espace commentaire. Cela implique la mise en place d'un formulaire de saisie, la gestion des erreurs, l'affichage des commentaires.",
+            "image": [
+                {
+                "src":"src/assets/images/projets/Dynamiser.png",
+                "alt":"Espace Commentaire"
+                }
+            ],
+            "link": "https://github.com/Diablo5929/Dynamiser"
+        },
+        {
+            "id": 3,
+            "tag": ["JavaScript"],
+            "name": "Bubble",
+            "createDate": "19/07/2024",
+            "description": "L'objectif de ce projet était de créer un petit jeu avec un compteur lorsque l'on perce les bulles.",
+            "image": [
+                {
+                "src":"src/assets/images/projets/bubble.png",
+                "alt":"Bubble"
+                }
+            ],
+            "link": "https://github.com/Diablo5929/bubble"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+
+#app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+main {
+  margin-top: 85px;
+}
+
+* {
+  font-family: "Josefin Sans", sans-serif;
+  color: greenyellow;
+  margin: 0;
+  font-size: 1em;
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Shrikhand", serif;
+  font-weight: 400;
+}
+
+.CTA {
+  background-color: greenyellow;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.CTA:hover {
+  box-shadow: -4px 4px 10px greenyellow;
+}
